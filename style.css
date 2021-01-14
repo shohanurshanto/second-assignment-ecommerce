@@ -1,12 +1,9 @@
 body {
-    font-family: "Inter", sans-serif;
+    font-family: 'Ubuntu', sans-serif;
 }
 .top-content{
-    background-color: #fffbf0;
+    background-color:rgba(255, 251, 240, 1);
    
-}
-/* main {
-    background-color: #e5e5e5; */
 }
 h1 {
     font-size: 50px;
@@ -15,7 +12,7 @@ h1 {
 }
 .custom-btn {
     color: white;
-    background-image: linear-gradient(#a1ba42, #88a31d);
+    background-image: linear-gradient(#e2563d, #e64242);
 }
 .custom-color {
     color: rgb(250,128,76);
@@ -31,7 +28,7 @@ h1 {
 .card-img-top {
     width: 100%;
     height: 350px;
-    background-color: grey;
+    background-color:rgba(241, 241, 241, 1);
     padding: 20px;
     border-radius: 10px;
 }
@@ -54,6 +51,6 @@ h1 {
 .service-image img {
     width: 70px;
 }
-.row {
-    align-items: center !important;
+/* .row {
+    align-items: center !important; */
 }
