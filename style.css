@@ -55,11 +55,14 @@ h1 {
     height: 200px;
     border-radius: 10px;
 }
-
+#subscribe h1, h5{
+    color: white;
+}
 .subscribe-button{
-    background-image: linear-gradient(to bottom, #ee005f 0%, #940039 100%);
-    color: #fff;
+    background-image: linear-gradient(to bottom,#3ED9C7 0%,#22A482 100%);
+    color: ;
     border: none;
     border-radius: 8px;
     padding: 9px 25px;
     cursor: pointer;
+    
