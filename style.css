@@ -5,8 +5,8 @@ body {
     background-color: #fffbf0;
    
 }
-main {
-    background-color: #e5e5e5;
+/* main {
+    background-color: #e5e5e5; */
 }
 h1 {
     font-size: 50px;
@@ -18,7 +18,7 @@ h1 {
     background-image: linear-gradient(#a1ba42, #88a31d);
 }
 .custom-color {
-    color: #fabe4c;
+    color: rgb(250,128,76);
 }
 .custom-card {
     border: 10px solid white;
