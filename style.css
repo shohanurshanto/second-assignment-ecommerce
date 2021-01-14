@@ -43,7 +43,7 @@ h1 {
     width: 100%;
 }
 .service-box {
-    height: 170px;
+    height: 150px;
     width: 100%;
     background: white;
     border-radius: 10px;
@@ -52,17 +52,9 @@ h1 {
     width: 70px;
 }
 #subscribe{
-    height: 200px;
-    border-radius: 10px;
+    background-image: linear-gradient(45deg,#3ED9C7, #3B55CE);
+    border-radius: 6px;
 }
 #subscribe h1, h5{
     color: white;
 }
-.subscribe-button{
-    background-image: linear-gradient(to bottom,#3ED9C7 0%,#22A482 100%);
-    color: ;
-    border: none;
-    border-radius: 8px;
-    padding: 9px 25px;
-    cursor: pointer;
-    
