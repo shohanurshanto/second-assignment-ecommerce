@@ -43,7 +43,7 @@ h1 {
     width: 100%;
 }
 .service-box {
-    height: 170px;
+    height: 150px;
     width: 100%;
     background: white;
     border-radius: 10px;
@@ -57,4 +57,35 @@ h1 {
 }
 #subscribe h1, h5{
     color: white;
+}
+/* Footer section */
+.footer{
+    border-bottom: 1px solid #343638;
+ 
+}
+.foot{
+    border-radius: 5px;
+}
+.footer-widget .h4{
+    color: #ddd;
+}
+
+.footer-widget ul a{
+    color: rgb(168, 167, 167);
+    display: block;
+    margin-bottom: .5rem;
+
+}
+
+.footer-widget ul a:hover{
+    color: rgb(39, 39, 185);
+}
+
+.footer, .copyright{
+    background-color: black;
+    color: rgb(168, 167, 167);
+}
+
+.payment{
+    font-size: 30px;
 }
